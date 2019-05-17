@@ -1,0 +1,8 @@
+﻿  Opp.cpp
+C:\Users\Admin\source\repos\Opp_classs\Opp_classs\Opp.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\source\repos\Opp_classs\Opp_classs\Opp.cpp(7): warning C4101: 'diem': unreferenced local variable
+C:\Users\Admin\source\repos\Opp_classs\Opp_classs\Opp.cpp(8): warning C4101: 'Float': unreferenced local variable
+C:\Users\Admin\source\repos\Opp_classs\Opp_classs\Opp.cpp(31): warning C4101: 'p': unreferenced local variable
+C:\Users\Admin\source\repos\Opp_classs\Opp_classs\Opp.cpp(31): warning C4101: 's': unreferenced local variable
+C:\Users\Admin\source\repos\Opp_classs\Opp_classs\Opp.cpp(31): warning C4101: 'Total': unreferenced local variable
+  Opp_classs.vcxproj -> C:\Users\Admin\source\repos\Opp_classs\Debug\Opp_classs.exe

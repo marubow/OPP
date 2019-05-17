@@ -1,0 +1,5 @@
+﻿  main.cpp
+H:\DEV C++\soPhuc\sophuc\sophuc\main.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  sophuc.cpp
+  Generating Code...
+  sophuc.vcxproj -> H:\DEV C++\soPhuc\sophuc\Debug\sophuc.exe
